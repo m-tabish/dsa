@@ -1,9 +1,6 @@
-
-// https://codeforces.com/problemset/problem/2114/B
-
 import java.util.Scanner;
 
-public class notquitepalindrome {
+public class _2114B {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
