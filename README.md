@@ -1,15 +1,31 @@
+
+# 9-6-25
+- ⭐[567. Permutation in String](/neetcode75/_567.java) 
+   - [Article](/neetcode75/Articles/567.md)
+- ⭐[3. Longest Substring Without Repeating Characters](/neetcode75/_3.java) 
+   
+
+# 9-6-25
+- ⭐⭐[424. Longest Repeating Character Replacement](/neetcode75/_424.java) 
+    - [Article](/neetcode75/Articles/424.md)
+- ⭐[3. Longest Substring Without Repeating Characters](/neetcode75/_3.java) 
+
+# 2-6-25
+- [121. Best Time to Buy and Sell Stock ](/neetcode75/_121.java) 
+
 # 1-6-25
-- ⭐**Visit Again** [1028 Div 2 ](/Codeforces/_1028A.java)   
- 
+- [11. Container With Most Water ](/neetcode75/_11.java) 
+- [1028 Div 2 ](/Codeforces/_1028A.java)   
+- Read Competitive Programmer's Handbook till chapter 3
 # 31-5-25
-- ⭐**Visit Again** [15. 3sum](/neetcode75/_15.java) 
+- ⭐⭐**Visit Again** [15. 3sum](/neetcode75/_15.java) 
     - [Article](/neetcode75/Articles/15.md)
 - [149. Valid Palindrome](/neetcode75/_125.java) 
 - [242. Valid Anagram](/neetcode75/_242.java) 
     - [Article](/neetcode75/Articles/242.md)
-- ⭐**Visit Again** [49. Group Anagrams](/neetcode75/_49.java)
+- ⭐⭐**Visit Again** [49. Group Anagrams](/neetcode75/_49.java)
     - [Article](/neetcode75/Articles/49.md)
-- ⭐**Visit Again** [347. Top K Frequent Elements](/neetcode75/_347.java)
+- ⭐⭐**Visit Again** [347. Top K Frequent Elements](/neetcode75/_347.java)
     - [Article](/neetcode75/Articles/347.md)
 - [217. Contains Duplicate](/neetcode75/_217.java)
 
