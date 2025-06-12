@@ -1,8 +1,14 @@
 
+# 12-6-25
+- [20. Valid Parentheses](/neetcode75/_20.java) 
+    
+# 11-6-25
+- ⭐⭐⭐[76. Minimum Window Substring (Hard)](/neetcode75/_.java)  
+
 # 10-6-25
 - ⭐[567. Permutation in String](/neetcode75/_567.java) 
    - [Article](/neetcode75/Articles/567.md)
-- ⭐[76. Minimum Window Substring](/neetcode75/_.java) 
+
    
 
 # 9-6-25
