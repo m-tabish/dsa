@@ -1,4 +1,8 @@
-
+# 20-6-25
+- [153. Find Minimum in Rotated Sorted Array](/neetcode75/_153.java) 
+- [206. Reverse Linked List](/neetcode75/_206.java) 
+- [33. Search in a Rotated Sorted Array](/neetcode75/_33.java) 
+        
 # 12-6-25
 - [20. Valid Parentheses](/neetcode75/_20.java) 
     
