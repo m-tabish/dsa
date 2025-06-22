@@ -1,3 +1,8 @@
+# 21-6-25
+- [141. Linked List Cycle](/neetcode75/_141_.java) 
+- [21. Merge Two Sorted Lists](/neetcode75/_21.java) 
+     - [Article](/neetcode75/Articles/21.md)
+
 # 20-6-25
 - [153. Find Minimum in Rotated Sorted Array](/neetcode75/_153.java) 
 - [206. Reverse Linked List](/neetcode75/_206.java) 
