@@ -1,5 +1,15 @@
-# 21-6-25
-- [141. Linked List Cycle](/neetcode75/_141_.java) 
+# 24-6-25
+- [19. Remove Nth Node From End of List](/neetcode75/_19.java) 
+
+# 23-6-25
+- [2138. Divide a String Into Groups of Size k](/neetcode75/_2138.java) 
+
+
+# 22-6-25 
+- ⭐⭐⭐[143. Reorder List](/neetcode75/_143.java)  
+    - [Article](/neetcode75/Articles/143.md)
+# 21-6-25 
+- [141. Linked List Cycle](/neetcode75/_141.java) 
 - [21. Merge Two Sorted Lists](/neetcode75/_21.java) 
      - [Article](/neetcode75/Articles/21.md)
 
