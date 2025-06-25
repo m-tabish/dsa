@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class _242 {
+public class _424 {
     public int characterReplacement(String s, int k) {
         int l = 0, substr = 0, max = 0, mf = 0;
         HashMap<Character, Integer> map = new HashMap<>();

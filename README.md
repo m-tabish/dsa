@@ -1,4 +1,11 @@
+
+# 25-6-25
+- [226. Inverse Binary Tree](/neetcode75/_226.java) 
+- [104. Maximum Depth of Binary Tree](/neetcode75/_104.java) 
+ 
+
 # 24-6-25
+- [23. Merge k Sorted Lists](/neetcode75/_23.java) 
 - [19. Remove Nth Node From End of List](/neetcode75/_19.java) 
 
 # 23-6-25
@@ -10,7 +17,7 @@
     - [Article](/neetcode75/Articles/143.md)
 # 21-6-25 
 - [141. Linked List Cycle](/neetcode75/_141.java) 
-- [21. Merge Two Sorted Lists](/neetcode75/_21.java) 
+- ⭐[21. Merge Two Sorted Lists](/neetcode75/_21.java) 
      - [Article](/neetcode75/Articles/21.md)
 
 # 20-6-25
