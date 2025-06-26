@@ -1,80 +1,79 @@
-
-# 25-6-25
-- [226. Inverse Binary Tree](/neetcode75/_226.java) 
-- [104. Maximum Depth of Binary Tree](/neetcode75/_104.java) 
+# 26-6-25
+1. [543. Diameter of Binary Tree](/neetcode75/_543.java)
  
+# 25-6-25
+1. [226. Inverse Binary Tree](/neetcode75/_226.java)
+2. [104. Maximum Depth of Binary Tree](/neetcode75/_104.java)
+3. [100. Same Tree](/neetcode75/_100.java)
+4. [572. Subtree of Another Tree](/neetcode75/_572.java)
+
 
 # 24-6-25
-- [23. Merge k Sorted Lists](/neetcode75/_23.java) 
-- [19. Remove Nth Node From End of List](/neetcode75/_19.java) 
+1. [23. Merge k Sorted Lists](/neetcode75/_23.java)
+2. [19. Remove Nth Node From End of List](/neetcode75/_19.java)
 
 # 23-6-25
-- [2138. Divide a String Into Groups of Size k](/neetcode75/_2138.java) 
+1. [2138. Divide a String Into Groups of Size k](/neetcode75/_2138.java)
 
-
-# 22-6-25 
-- ⭐⭐⭐[143. Reorder List](/neetcode75/_143.java)  
-    - [Article](/neetcode75/Articles/143.md)
-# 21-6-25 
-- [141. Linked List Cycle](/neetcode75/_141.java) 
-- ⭐[21. Merge Two Sorted Lists](/neetcode75/_21.java) 
-     - [Article](/neetcode75/Articles/21.md)
+# 22-6-25 v
+1. ⭐⭐⭐[143. Reorder List](/neetcode75/_143.java)
+    1. [Article](/neetcode75/Articles/143.md)
+# 21-6-25
+1. [141. Linked List Cycle](/neetcode75/_141.java)
+2. ⭐[21. Merge Two Sorted Lists](/neetcode75/_21.java)
+    1. [Article](/neetcode75/Articles/21.md)
 
 # 20-6-25
-- [153. Find Minimum in Rotated Sorted Array](/neetcode75/_153.java) 
-- [206. Reverse Linked List](/neetcode75/_206.java) 
-- [33. Search in a Rotated Sorted Array](/neetcode75/_33.java) 
-        
+1. [153. Find Minimum in Rotated Sorted Array](/neetcode75/_153.java)
+2. [206. Reverse Linked List](/neetcode75/_206.java)
+3. [33. Search in a Rotated Sorted Array](/neetcode75/_33.java)
+
 # 12-6-25
-- [20. Valid Parentheses](/neetcode75/_20.java) 
-    
+1. [20. Valid Parentheses](/neetcode75/_20.java)
+
 # 11-6-25
-- ⭐⭐⭐[76. Minimum Window Substring (Hard)](/neetcode75/_.java)  
+1. ⭐⭐⭐[76. Minimum Window Substring (Hard)](/neetcode75/_.java)
 
 # 10-6-25
-- ⭐[567. Permutation in String](/neetcode75/_567.java) 
-   - [Article](/neetcode75/Articles/567.md)
-
-   
+1. ⭐[567. Permutation in String](/neetcode75/_567.java)
+    1. [Article](/neetcode75/Articles/567.md)
 
 # 9-6-25
-- ⭐⭐[424. Longest Repeating Character Replacement](/neetcode75/_424.java) 
-    - [Article](/neetcode75/Articles/424.md)
-- ⭐[3. Longest Substring Without Repeating Characters](/neetcode75/_3.java) 
+1. ⭐⭐[424. Longest Repeating Character Replacement](/neetcode75/_424.java)
+    1. [Article](/neetcode75/Articles/424.md)
+2. ⭐[3. Longest Substring Without Repeating Characters](/neetcode75/_3.java)
 
 # 2-6-25
-- [121. Best Time to Buy and Sell Stock ](/neetcode75/_121.java) 
+1. [121. Best Time to Buy and Sell Stock ](/neetcode75/_121.java)
 
 # 1-6-25
-- [11. Container With Most Water ](/neetcode75/_11.java) 
-- [1028 Div 2 ](/Codeforces/_1028A.java)   
-- Read Competitive Programmer's Handbook till chapter 3
+1. [11. Container With Most Water ](/neetcode75/_11.java)
+2. [1028 Div 2 ](/Codeforces/_1028A.java)
+3. Read Competitive Programmer's Handbook till chapter 3
+
 # 31-5-25
-- ⭐⭐**Visit Again** [15. 3sum](/neetcode75/_15.java) 
-    - [Article](/neetcode75/Articles/15.md)
-- [149. Valid Palindrome](/neetcode75/_125.java) 
-- [242. Valid Anagram](/neetcode75/_242.java) 
-    - [Article](/neetcode75/Articles/242.md)
-- ⭐⭐**Visit Again** [49. Group Anagrams](/neetcode75/_49.java)
-    - [Article](/neetcode75/Articles/49.md)
-- ⭐⭐**Visit Again** [347. Top K Frequent Elements](/neetcode75/_347.java)
-    - [Article](/neetcode75/Articles/347.md)
-- [217. Contains Duplicate](/neetcode75/_217.java)
+1. ⭐⭐**Visit Again** [15. 3sum](/neetcode75/_15.java)
+    1. [Article](/neetcode75/Articles/15.md)
+2. [149. Valid Palindrome](/neetcode75/_125.java)
+3. [242. Valid Anagram](/neetcode75/_242.java)
+    1. [Article](/neetcode75/Articles/242.md)
+4. ⭐⭐**Visit Again** [49. Group Anagrams](/neetcode75/_49.java)
+    1. [Article](/neetcode75/Articles/49.md)
+5. ⭐⭐**Visit Again** [347. Top K Frequent Elements](/neetcode75/_347.java)
+    1. [Article](/neetcode75/Articles/347.md)
+6. [217. Contains Duplicate](/neetcode75/_217.java)
 
 # 30-5-25
-
-- [128. Longest Consecutive Sequence](/neetcode75/_128.java)
-- [238. Product of Array Except Self](/neetcode75/_238.java)
-- [217. Contains Duplicate](/neetcode75/_217.java)
-
+1. [128. Longest Consecutive Sequence](/neetcode75/_128.java)
+2. [238. Product of Array Except Self](/neetcode75/_238.java)
+3. [217. Contains Duplicate](/neetcode75/_217.java)
 
 ----
 # 29-5-25
-
-- [560. Subarray Sum Equals K](/neetcode75/_128.java)
-- [1. Two Sum](/neetcode75/_1.java)
-- [2114A Square Year](/Codeforces/_2114A.java)
-- [2114B Not Quite Palindromic](/Codeforces/_2114B.java) 
-    - [LINK](https://codeforces.com/contest/2114)
+1. [560. Subarray Sum Equals K](/neetcode75/_128.java)
+2. [1. Two Sum](/neetcode75/_1.java)
+3. [2114A Square Year](/Codeforces/_2114A.java)
+4. [2114B Not Quite Palindromic](/Codeforces/_2114B.java)
+    1. [LINK](https://codeforces.com/contest/2114)
 
 ⭐ - visit again / important / unique approach
