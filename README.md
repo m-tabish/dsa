@@ -1,6 +1,17 @@
+| Commit cmd
+```bash
+git add . & git commit -m "regular push 25/6/25" & git push
+```
+# 27-6-25
+1.⭐ *Read again* [235. Lowest Common Ancestor of a Binary Search Tree](/neetcode75/_235.java)
+2.⭐ *Read again* [ 110. Balanced Binary Tree](/neetcode75/_110.java)
+
 # 26-6-25
-1. [543. Diameter of Binary Tree](/neetcode75/_543.java)
- 
+1.⭐ *Read again* [543. Diameter of Binary Tree](/neetcode75/_543.java)
+2.⭐ *Read again* [ 110. Balanced Binary Tree](/neetcode75/_110.java)
+
+
+
 # 25-6-25
 1. [226. Inverse Binary Tree](/neetcode75/_226.java)
 2. [104. Maximum Depth of Binary Tree](/neetcode75/_104.java)
@@ -8,7 +19,7 @@
 4. [572. Subtree of Another Tree](/neetcode75/_572.java)
 
 
-# 24-6-25
+# 24-6-25v
 1. [23. Merge k Sorted Lists](/neetcode75/_23.java)
 2. [19. Remove Nth Node From End of List](/neetcode75/_19.java)
 
