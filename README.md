@@ -2,20 +2,28 @@
 ```bash
 git add . & git commit -m "regular push 25/6/25" & git push
 ```
+
+# 10-7-25
+1. ⭐⭐*Cycle Sort* [2415. Reverse Odd Levels of Binary Tree](/neetcode75/_2415.java)
+1. [2471. Minimum Number of Operations to Sort a Binary Tree by Level](/neetcode75/_2471.java)
+ 
+# 9-7-25
+1. ⭐ [429. N-ary Tree Level Order Traversal](/neetcode/_429.java)
+2. [637. Average of Levels in Binary Tree](/neetcode75/_637.java)
+3. [103. Binary Tree Zigzag Level Order Traversal](/neetcode75/_103.java)
+4.  *Read again* [623. Add One Row to Tree](/neetcode75/_623_.java)
+
 # 28-6-25
-1.⭐⭐⭐  *LCP Concept* [Weekly Contest Q2. Longest Common Prefix Between Adjacent Strings After Removals](/Contests/_q2_456.java)
-2.⭐ *Read again* [Weekly Contest Q1. Partition String ](/Contests/_q1_456.java)
+1. ⭐⭐⭐  *LCP Concept* [Weekly Contest Q2. Longest Common Prefix Between Adjacent Strings After Removals](/Contests/_q2_456.java)
+2. ⭐ *Read again* [Weekly Contest Q1. Partition String ](/Contests/_q1_456.java)
   
 # 27-6-25
-1.⭐ *Read again* [235. Lowest Common Ancestor of a Binary Search Tree](/neetcode75/_235.java)
-2.⭐ *Read again* [102. Binary Tree Level Order Traversal](/neetcode75/_102.java)
+1. ⭐ *Read again* [235. Lowest Common Ancestor of a Binary Search Tree](/neetcode75/_235.java)
+2. ⭐ *Read again* [102. Binary Tree Level Order Traversal](/neetcode75/_102.java)
   
- 
 # 26-6-25v
-1.⭐ *Read again* [543. Diameter of Binary Tree](/neetcode75/_543.java)
-2.⭐ *Read again* [ 110. Balanced Binary Tree](/neetcode75/_110.java)
-
-
+1. ⭐ *Read again* [543. Diameter of Binary Tree](/neetcode75/_543.java)
+2. ⭐ *Read again* [ 110. Balanced Binary Tree](/neetcode75/_110.java)
 
 # 25-6-25
 1. [226. Inverse Binary Tree](/neetcode75/_226.java)
@@ -24,7 +32,7 @@ git add . & git commit -m "regular push 25/6/25" & git push
 4. [572. Subtree of Another Tree](/neetcode75/_572.java)
 
 
-# 24-6-25v
+# 24-6-25
 1. [23. Merge k Sorted Lists](/neetcode75/_23.java)
 2. [19. Remove Nth Node From End of List](/neetcode75/_19.java)
 
