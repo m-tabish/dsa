@@ -2,11 +2,19 @@
 ```bash
 git add . & git commit -m "regular push 25/6/25" & git push
 ```
+# 11-7-25
+1. *Build tree* [105. Construct Binary Tree from Preorder and Inorder Traversal](/neetcode75/_105.java)
+2. *Build tree* [106. Construct Binary Tree from Inorder and Postorder Traversal](/neetcode75/_106_.java) 
+
 
 # 10-7-25
 1. ⭐⭐*Cycle Sort* [2415. Reverse Odd Levels of Binary Tree](/neetcode75/_2415.java)
-1. [2471. Minimum Number of Operations to Sort a Binary Tree by Level](/neetcode75/_2471.java)
- 
+2. [2471. Minimum Number of Operations to Sort a Binary Tree by Level](/neetcode75/_2471.java)
+    - [Article](/neetcode75/Articles/2471.md)
+2. ⭐ [111. Minimum Depth of Binary Tree](/neetcode75/_111.java) 
+3. [559. Maximum Depth of N-ary Tree](/neetcode75/_559F.java)
+
+
 # 9-7-25
 1. ⭐ [429. N-ary Tree Level Order Traversal](/neetcode/_429.java)
 2. [637. Average of Levels in Binary Tree](/neetcode75/_637.java)
