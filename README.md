@@ -2,7 +2,13 @@
 ```bash
 git add . & git commit -m "regular push 25/6/25" & git push
 ```
-# 11-7-25
+
+
+# 16-7-25
+1. *Build tree* [889. Construct Binary Tree from Preorder and Postorder Traversal](/neetcode75/_889.java)
+2. *Build tree* [106. Construct Binary Tree from Inorder and Postorder Traversal](/neetcode75/_106_.java) 
+
+# 12-7-25
 1. *Build tree* [105. Construct Binary Tree from Preorder and Inorder Traversal](/neetcode75/_105.java)
 2. *Build tree* [106. Construct Binary Tree from Inorder and Postorder Traversal](/neetcode75/_106_.java) 
 
