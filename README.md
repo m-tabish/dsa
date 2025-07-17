@@ -1,12 +1,15 @@
 | Commit cmd
 ```bash
-git add . & git commit -m "regular push 25/6/25" & git push
+git add . & git commit -m "regular push 16/7/25" & git push
 ```
 
+# 17-7-25
+1. [222. Count Complete Tree Nodes](/neetcode75/_222.java) 
+2. [1448. Count Good Nodes in Binary Nodes](/neetcode75/_1438.java) 
 
 # 16-7-25
 1. *Build tree* [889. Construct Binary Tree from Preorder and Postorder Traversal](/neetcode75/_889.java)
-2. *Build tree* [106. Construct Binary Tree from Inorder and Postorder Traversal](/neetcode75/_106_.java) 
+2. *Build tree* [606. Construct String from Binary Tree](/neetcode75/_606.java) 
 
 # 12-7-25
 1. *Build tree* [105. Construct Binary Tree from Preorder and Inorder Traversal](/neetcode75/_105.java)
