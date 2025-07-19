@@ -1,8 +1,14 @@
 | Commit cmd
 ```bash
+
 git add . & git commit -m "regular push 16/7/25" & git push
+
+
 ```
 
+# 19-7-25
+1. **Read again** [2265. Count Nodes Equal to Average of Subtree](/neetcode75/_2265.java) 
+ 
 # 17-7-25
 1. [222. Count Complete Tree Nodes](/neetcode75/_222.java) 
 2. [1448. Count Good Nodes in Binary Nodes](/neetcode75/_1438.java) 
