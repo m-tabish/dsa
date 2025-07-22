@@ -11,6 +11,10 @@ git add . & git commit -m "regular push 20/7/25" & git push
 2. **Read again** [572. Subtree of Another Tree](/neetcode75/_572.java) 
 3.  [112. Path Sum](/neetcode75/_112.java) 
 
+# 21-7-25
+1. [1957. Delete Characters to Make Fancy String](/neetcode75/_1957.java) 
+2. [101. Leaf Similar Trees](/neetcode75/_872.java) 
+
 # 19-7-25
 1. **Read again** [2265. Count Nodes Equal to Average of Subtree](/neetcode75/_2265.java) 
 2. [101. Symmetric Tree](/neetcode75/_101.java) 
