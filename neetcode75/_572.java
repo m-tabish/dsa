@@ -22,8 +22,9 @@ class _572 {
             return true;
         if (root == null)
             return false;
-        if (check(root, subRoot))
-            return true;
+        if (root.val == subRoot.val) {
+            return dfs(root, subRoot);
+        }
         return (isSubtree(root.left, subRoot) ||
                 isSubtree(root.right, subRoot));
     }

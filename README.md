@@ -1,13 +1,19 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 16/7/25" & git push
+git add . & git commit -m "regular push 20/7/25" & git push
 
 
 ```
 
+# 22-7-25
+1. **Read again** [687. Longest Univalue Path](/neetcode75/_687.java) 
+2. **Read again** [572. Subtree of Another Tree](/neetcode75/_572.java) 
+3.  [112. Path Sum](/neetcode75/_112.java) 
+
 # 19-7-25
 1. **Read again** [2265. Count Nodes Equal to Average of Subtree](/neetcode75/_2265.java) 
+2. [101. Symmetric Tree](/neetcode75/_101.java) 
  
 # 17-7-25
 1. [222. Count Complete Tree Nodes](/neetcode75/_222.java) 
