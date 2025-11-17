@@ -3,10 +3,21 @@
 
 git add . & git commit -m "regular push 20/7/25" & git push
 
-
+https://github.com/m-tabish/dsa
 ```
 
-# 22-7-25
+
+# 18-11-25 (72 Questions till here)
+1. **Read again** [547. Number of Provinces](/neetcode75/_547.java) 
+ 
+
+# 17-11-25  
+1.  [3745. Maximize Expression of Three Elements](/neetcode75/_3745.java) 
+2.  [3746. Minimum String Length After Balanced Removals](/neetcode75/_3746.java) 
+3.  [112. Path Sum](/neetcode75/_112.java) 
+
+
+# 22-7-25 (72 Questions till here)
 1. **Read again** [687. Longest Univalue Path](/neetcode75/_687.java) 
 2. **Read again** [572. Subtree of Another Tree](/neetcode75/_572.java) 
 3.  [112. Path Sum](/neetcode75/_112.java) 
