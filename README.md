@@ -6,6 +6,12 @@ git add . & git commit -m "regular push 26/12/25" & git push
 https://github.com/m-tabish/dsa
 ```
 
+
+# 27-12-25 
+1.  [130. Surrounded Regions DFS](/neetcode75/_130.java)
+2.  [130. Surrounded Regions BFS](/neetcode75/_130BFS.java)
+3.  [1020. Number of Enclaves DFS](/neetcode75/_1020DFS.java)
+
 # 26-12-25 
 1. **Read again** [Cycle Detection in Undirected Graph using DFS](/neetcode75/DFS_CycleDetection.java) 
 2. [542. 01 Matrix](/neetcode75/_542.java) 
