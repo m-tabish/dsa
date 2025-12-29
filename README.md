@@ -5,6 +5,19 @@ git add . & git commit -m "regular push 26/12/25" & git push
 
 https://github.com/m-tabish/dsa
 ```
+Sample entry
+## 00-00-25 
+1.  [number and name of question](/neetcode75/[].java)    
+___________________________________________________________________________________________________________
+## Solved Questions : 
+
+# 29-12-25 
+1.  [694. Number of Distinct Islands](/neetcode75/_694.java)  
+2.  [200. Number of  Islands](/neetcode75/_200.java) 
+2.  [1971. Find if Path Exists Using Graph and Union Join](/neetcode75/_1971_UnionFind.java) 
+
+# 28-12-25 
+1.  [127. Word Ladder](/neetcode75/_127.java) 
 
 
 # 27-12-25 
