@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 26/12/25" & git push
+git add . & git commit -m "regular push 31/12/25" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -10,7 +10,11 @@ Sample entry
 1.  [number and name of question](/neetcode75/[].java)    
 ___________________________________________________________________________________________________________
 ## Solved Questions : 
+# 31-12-25
+1.  [785. Cycle in Directed Graph](/neetcode75/_CycleDAG.java)  
 
+# 30-12-25
+1.  [785. Is graph bipartite](/neetcode75/_785.java)  
 # 29-12-25 
 1.  [694. Number of Distinct Islands](/neetcode75/_694.java)  
 2.  [200. Number of  Islands](/neetcode75/_200.java) 
