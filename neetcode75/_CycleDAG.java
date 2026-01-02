@@ -13,12 +13,15 @@ class _CycleDAG {
         for (int i = 0; i < V; i++) {
             adj.add(new ArrayList<Integer>());
         }
+
+
         for (int i = 0; i < edges.length; i++) {
             int u = edges[i][0];
             int v = edges[i][1];
 
             adj.get(u).add(v);
         }
+
 
         for (int i = 0; i < V; i++) {
             if (!vis[i]) {

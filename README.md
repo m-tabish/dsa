@@ -1,24 +1,34 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 31/12/25" & git push
+git add . & git commit -m "regular push 01/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
 Sample entry
-## 00-00-25 
-1.  [number and name of question](/neetcode75/[].java)    
+## 00-00-26
+1.  [66. Plus One](/neetcode75/[].java)    
 ___________________________________________________________________________________________________________
 ## Solved Questions : 
+
+# 1-01-26
+1.  [66. Plus One](/neetcode75/_66.java)  
+2.  [TopoSort](/neetcode75/_TopoSort.java)  
+3.  [Kahn Algorithm for Topo Sort](/neetcode75/_Kahn.java)
+4.  [207. Course Schedule](/neetcode75/_207.java)
+5.  [207. Course Schedule II](/neetcode75/_210.java)
+
+
 # 31-12-25
 1.  [785. Cycle in Directed Graph](/neetcode75/_CycleDAG.java)  
 
 # 30-12-25
 1.  [785. Is graph bipartite](/neetcode75/_785.java)  
+
 # 29-12-25 
 1.  [694. Number of Distinct Islands](/neetcode75/_694.java)  
 2.  [200. Number of  Islands](/neetcode75/_200.java) 
-2.  [1971. Find if Path Exists Using Graph and Union Join](/neetcode75/_1971_UnionFind.java) 
+3.  [1971. Find if Path Exists Using Graph and Union Join](/neetcode75/_1971_UnionFind.java) 
 
 # 28-12-25 
 1.  [127. Word Ladder](/neetcode75/_127.java) 
