@@ -1,101 +1,108 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 01/01/26" & git push
+git add . & git commit -m "regular push 03/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
 Sample entry
 ## 00-00-26
-1.  [66. Plus One](/neetcode75/[].java)    
+1.  [66. Plus One](/neetcode75/[].java)
 ___________________________________________________________________________________________________________
-## Solved Questions : 
 
-# 1-01-26
-1.  [66. Plus One](/neetcode75/_66.java)  
-2.  [TopoSort](/neetcode75/_TopoSort.java)  
+# Solved Questions :
+
+ 
+
+# 02-01-26
+1.  [802. Find Eventual Safe States](/neetcode75/_802.java)
+2.  [961. N-Repeated Element in Size 2N Array](/neetcode75/_961.java)
+
+# 01-01-26
+1.  [66. Plus One](/neetcode75/_66.java)
+2.  [TopoSort](/neetcode75/_TopoSort.java)
 3.  [Kahn Algorithm for Topo Sort](/neetcode75/_Kahn.java)
 4.  [207. Course Schedule](/neetcode75/_207.java)
-5.  [207. Course Schedule II](/neetcode75/_210.java)
+5.  [210. Course Schedule II](/neetcode75/_210.java)
 
 
 # 31-12-25
-1.  [785. Cycle in Directed Graph](/neetcode75/_CycleDAG.java)  
+1.  [Cycle in Directed Graph](/neetcode75/_CycleDAG.java)
 
 # 30-12-25
-1.  [785. Is graph bipartite](/neetcode75/_785.java)  
+1.  [785. Is graph bipartite](/neetcode75/_785.java)
 
-# 29-12-25 
-1.  [694. Number of Distinct Islands](/neetcode75/_694.java)  
-2.  [200. Number of  Islands](/neetcode75/_200.java) 
-3.  [1971. Find if Path Exists Using Graph and Union Join](/neetcode75/_1971_UnionFind.java) 
+# 29-12-25
+1.  [694. Number of Distinct Islands](/neetcode75/_694.java)
+2.  [200. Number of  Islands](/neetcode75/_200.java)
+3.  [1971. Find if Path Exists Using Graph and Union Join](/neetcode75/_1971_UnionFind.java)
 
-# 28-12-25 
-1.  [127. Word Ladder](/neetcode75/_127.java) 
+# 28-12-25
+1.  [127. Word Ladder](/neetcode75/_127.java)
 
 
-# 27-12-25 
+# 27-12-25
 1.  [130. Surrounded Regions DFS](/neetcode75/_130.java)
 2.  [130. Surrounded Regions BFS](/neetcode75/_130BFS.java)
 3.  [1020. Number of Enclaves DFS](/neetcode75/_1020DFS.java)
 
-# 26-12-25 
-1. **Read again** [Cycle Detection in Undirected Graph using DFS](/neetcode75/DFS_CycleDetection.java) 
-2. [542. 01 Matrix](/neetcode75/_542.java) 
+# 26-12-25
+1. **Read again** [Cycle Detection in Undirected Graph using DFS](/neetcode75/DFS_CycleDetection.java)
+2. [542. 01 Matrix](/neetcode75/_542.java)
  
-# 25-12-25 
-1. **Read again** [Cycle Detection in Undirected Graph using BFS](/neetcode75/BFS_CycleDetection.java) 
-2. [455. Assign Cookies](/neetcode75/_455.java) 
+# 25-12-25
+1. **Read again** [Cycle Detection in Undirected Graph using BFS](/neetcode75/BFS_CycleDetection.java)
+2. [455. Assign Cookies](/neetcode75/_455.java)
  
-# 24-12-25 
-1. [733. Flood Fill](/neetcode75/_733.java) 
-2. **Read again** [994. Rotting Oranges](/neetcode75/_994.java) 
+# 24-12-25
+1. [733. Flood Fill](/neetcode75/_733.java)
+2. **Read again** [994. Rotting Oranges](/neetcode75/_994.java)
  
-# 22-12-25 
-1. **Read again** [1971. Find if Path Exists in Graph](/neetcode75/_1971.java) 
-2. **Read again** [133. Clone Graph](/neetcode75/_133.java) 
+# 22-12-25
+1. **Read again** [1971. Find if Path Exists in Graph](/neetcode75/_1971.java)
+2. **Read again** [133. Clone Graph](/neetcode75/_133.java)
  
-# 18-11-25 
-1. **Read again** [547. Number of Provinces](/neetcode75/_547.java) 
+# 18-11-25
+1. **Read again** [547. Number of Provinces](/neetcode75/_547.java)
  
 
-# 17-11-25  
-1.  [3745. Maximize Expression of Three Elements](/neetcode75/_3745.java) 
-2.  [3746. Minimum String Length After Balanced Removals](/neetcode75/_3746.java) 
-3.  [112. Path Sum](/neetcode75/_112.java) 
+# 17-11-25
+1.  [3745. Maximize Expression of Three Elements](/neetcode75/_3745.java)
+2.  [3746. Minimum String Length After Balanced Removals](/neetcode75/_3746.java)
+3.  [112. Path Sum](/neetcode75/_112.java)
 
 
 # 22-7-25 (72 Questions till here)
-1. **Read again** [687. Longest Univalue Path](/neetcode75/_687.java) 
-2. **Read again** [572. Subtree of Another Tree](/neetcode75/_572.java) 
-3.  [112. Path Sum](/neetcode75/_112.java) 
+1. **Read again** [687. Longest Univalue Path](/neetcode75/_687.java)
+2. **Read again** [572. Subtree of Another Tree](/neetcode75/_572.java)
+3.  [112. Path Sum](/neetcode75/_112.java)
 
 # 21-7-25
-1. [1957. Delete Characters to Make Fancy String](/neetcode75/_1957.java) 
-2. [101. Leaf Similar Trees](/neetcode75/_872.java) 
+1. [1957. Delete Characters to Make Fancy String](/neetcode75/_1957.java)
+2. [101. Leaf Similar Trees](/neetcode75/_872.java)
 
 # 19-7-25
-1. **Read again** [2265. Count Nodes Equal to Average of Subtree](/neetcode75/_2265.java) 
-2. [101. Symmetric Tree](/neetcode75/_101.java) 
+1. **Read again** [2265. Count Nodes Equal to Average of Subtree](/neetcode75/_2265.java)
+2. [101. Symmetric Tree](/neetcode75/_101.java)
  
 # 17-7-25
-1. [222. Count Complete Tree Nodes](/neetcode75/_222.java) 
-2. [1448. Count Good Nodes in Binary Nodes](/neetcode75/_1438.java) 
+1. [222. Count Complete Tree Nodes](/neetcode75/_222.java)
+2. [1448. Count Good Nodes in Binary Nodes](/neetcode75/_1438.java)
 
 # 16-7-25
 1. *Build tree* [889. Construct Binary Tree from Preorder and Postorder Traversal](/neetcode75/_889.java)
-2. *Build tree* [606. Construct String from Binary Tree](/neetcode75/_606.java) 
+2. *Build tree* [606. Construct String from Binary Tree](/neetcode75/_606.java)
 
 # 12-7-25
 1. *Build tree* [105. Construct Binary Tree from Preorder and Inorder Traversal](/neetcode75/_105.java)
-2. *Build tree* [106. Construct Binary Tree from Inorder and Postorder Traversal](/neetcode75/_106_.java) 
+2. *Build tree* [106. Construct Binary Tree from Inorder and Postorder Traversal](/neetcode75/_106_.java)
 
 
 # 10-7-25
 1. ⭐⭐*Cycle Sort* [2415. Reverse Odd Levels of Binary Tree](/neetcode75/_2415.java)
 2. [2471. Minimum Number of Operations to Sort a Binary Tree by Level](/neetcode75/_2471.java)
     - [Article](/neetcode75/Articles/2471.md)
-2. ⭐ [111. Minimum Depth of Binary Tree](/neetcode75/_111.java) 
+2. ⭐ [111. Minimum Depth of Binary Tree](/neetcode75/_111.java)
 3. [559. Maximum Depth of N-ary Tree](/neetcode75/_559F.java)
 
 
