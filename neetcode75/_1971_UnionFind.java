@@ -6,7 +6,7 @@ class _1971_UnionFind {
 
     List<Integer> rank = new ArrayList<>(), parent = new ArrayList<>();
 
-    UnionFind(int n) {
+    _1971_UnionFind(int n) {
         for (int i = 0; i <= n + 1; i++) {
             rank.add(0);
             parent.add(i);

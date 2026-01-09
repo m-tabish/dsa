@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 03/01/26" & git push
+git add . & git commit -m "regular push 05/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -13,6 +13,18 @@ ________________________________________________________________________________
 # Solved Questions :
 
  
+ 
+# 05-01-26
+1.  [Shuffle the Array](/neetcode75/_shuffle_array.java)
+2.  [Concatenation of Array](/neetcode75/_concat_array.java)
+3.  [Max Consecutive Ones](/neetcode75/_maxCount.java)
+4.  [Dijkstra's Algorithm](/neetcode75/_dijkstra.java)
+
+# 04-01-26
+1.  **Read again** [269. Alien Dictionary](/neetcode75/_269.java)
+2.  [Shortest distance in Undirected Graph with Unit Distance](/neetcode75/_Shortest_Distance_In_UG.java)
+3.  [Shortest distance in Directed Graph from Source](/neetcode75/_Shortest_Distance_In_DAG.java)
+
 
 # 02-01-26
 1.  [802. Find Eventual Safe States](/neetcode75/_802.java)
@@ -30,12 +42,12 @@ ________________________________________________________________________________
 1.  [Cycle in Directed Graph](/neetcode75/_CycleDAG.java)
 
 # 30-12-25
-1.  [785. Is graph bipartite](/neetcode75/_785.java)
+1.  [785. Is graph bipartite](/neetcode75/_785.java) (Coloring of Graph)
 
 # 29-12-25
 1.  [694. Number of Distinct Islands](/neetcode75/_694.java)
 2.  [200. Number of  Islands](/neetcode75/_200.java)
-3.  [1971. Find if Path Exists Using Graph and Union Join](/neetcode75/_1971_UnionFind.java)
+3.   **Read again** [1971. Find if Path Exists Using Graph and Union Join](/neetcode75/_1971_UnionFind.java)
 
 # 28-12-25
 1.  [127. Word Ladder](/neetcode75/_127.java)
