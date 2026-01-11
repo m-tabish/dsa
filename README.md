@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 09/01/26" & git push
+git add . & git commit -m "regular push 11/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -11,6 +11,17 @@ Sample entry
 ___________________________________________________________________________________________________________
 
 # Solved Questions :
+
+
+# 11-01-26
+1. [Bellman Ford Algorithm](/neetcode75/_Bellman.java)
+2. [Floyd Warshal Algo ](/neetcode75/_FloydWarshal.java)
+
+# 10-01-26
+1. [G-39: Minimum Multiplications to Reach End](/neetcode75/_G39.java)
+2. **Read again** [787. Cheapest Flights Within K Stops](/neetcode75/_787.java)
+3. [743. Network Delay Time](/neetcode75/_743.java)
+4. [1976. Number of Ways to Arrive at Destination](/neetcode75/_1976.java)
 
 # 09-01-26
 1.  [1631. Path with Minimum Effort](/neetcode75/_1631.java)

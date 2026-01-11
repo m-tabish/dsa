@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.PriorityQueue;
+import java.util.Random;
 
 class Pair {
     int node;
@@ -16,6 +17,7 @@ class _1976 {
     public int countPaths(int n, int[][] roads) {
         ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
         PriorityQueue<Pair> q = new PriorityQueue<>((x, y) -> Long.compare(x.weight, y.weight));
+Random r = new Random();
 
         int mod = 1_000_000_007;
         long dist[] = new long[n];
