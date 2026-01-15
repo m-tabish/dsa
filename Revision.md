@@ -18,6 +18,8 @@
 | 14  | DNF                                   | ⭐⭐⭐⭐  |
 | 15  | Kadane's Algo                                      | ⭐⭐⭐⭐  |
 | 16  | [Kahn's Algo for performing topo sort using BFS](/neetcode75/_Kahn.java) | ⭐⭐⭐⭐  |
+| 17  | [Bellman Ford](/neetcode75/_Bellman.java) | ⭐⭐⭐⭐  |
+| 18  | [Floyd Warshall](/neetcode75/_FLoydWarshal.java) | ⭐⭐⭐⭐  |
 
 
   

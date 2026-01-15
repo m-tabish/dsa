@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 11/01/26" & git push
+git add . & git commit -m "regular push 12/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -12,6 +12,10 @@ ________________________________________________________________________________
 
 # Solved Questions :
 
+
+# 12-01-26
+1. [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance ](/neetcode75/_1334.java)
+2. [1303. Range Sum Query - Immutable](/neetcode75/_1303.java)
 
 # 11-01-26
 1. [Bellman Ford Algorithm](/neetcode75/_Bellman.java)
