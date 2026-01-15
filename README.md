@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 13/01/26" & git push
+git add . & git commit -m "regular push 14/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -11,6 +11,12 @@ Sample entry
 ___________________________________________________________________________________________________________
 
 # Solved Questions :
+
+# 14-01-26
+
+01. **KEY CONCEPT OF STRINGS**[345. Reverse Vowels of a String](/neetcode75/_345.java)
+02. [917. Reverse Only Letters](/neetcode75/_917.java)
+
 
 # 13-01-26
 01. [268. Missing Number](/neetcode75/_268.java)
