@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 12/01/26" & git push
+git add . & git commit -m "regular push 13/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -11,6 +11,16 @@ Sample entry
 ___________________________________________________________________________________________________________
 
 # Solved Questions :
+
+# 13-01-26
+01. [268. Missing Number](/neetcode75/_268.java)
+02. [1. Two Sum](/neetcode75/_1.java)
+03. [66. Plus One](/neetcode75/_66.java)
+05. [136. Single Number](/neetcode75/_136.java)
+06. [169. Majority Element](/neetcode75/_169.java)
+07. [709. To Lower Case](/neetcode75/_709.java)
+08. [125. Valid Palindrome](/neetcode75/_125.java)
+09. [344. Reverse String](/neetcode75/_344.java)
 
 
 # 12-01-26
