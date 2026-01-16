@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 15/01/26" & git push
+git add . & git commit -m "regular push 16/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -11,6 +11,16 @@ Sample entry
 ___________________________________________________________________________________________________________
 
 # Solved Questions :
+
+
+# 16-01-26
+
+01. [34. Find First and Last Position of Element in Sorted Array](/neetcode75/_34.java)
+02. [1021. Remove Outermost Parentheses](/neetcode75/_1021.java)
+03. [3174. Clear Digits](/neetcode75/_3174.java)
+04. [1047. Remove All Adjacent Duplicates In String](/neetcode75/_1047.java)
+05. [342. Power of Four](/neetcode75/_342.java)
+06. [Fractional Knapsack](/neetcode75/_FractionalKnapsack.java)
 
 # 15-01-26
 
