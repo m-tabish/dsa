@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 16/01/26" & git push
+git add . & git commit -m "regular push 18/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -12,6 +12,22 @@ ________________________________________________________________________________
 
 # Solved Questions :
 
+
+# 18-01-26
+1. [21. Merge Two Sorted Lists](/neetcode75/_21.java)
+2. [160. Intersection of Two Linked Lists](/neetcode75/_160.java)
+3. [142. Linked List Cycle II](/neetcode75/_142.java)
+4. [141. Linked List Cycle](/neetcode75/_141.java)
+5. [2. Add two Numbers](/neetcode75/_2.java)
+6. [2807. Insert Greatest Common Divisors in Linked List](/neetcode75/_2807.java)
+7. [237. Delete node from Linked List](/neetcode75/_237.java)
+
+
+# 17-01-26
+
+01. [1290. Convert Binary Number in a Linked List to Integer](/neetcode75/_1290.java)
+02. [206. Reverse Linked List](/neetcode75/_206.java)
+03. [876. Middle of the Linked List](/neetcode75/_876.java)
 
 # 16-01-26
 
