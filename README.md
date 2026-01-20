@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 18/01/26" & git push
+git add . & git commit -m "regular push 20/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -12,6 +12,12 @@ ________________________________________________________________________________
 
 # Solved Questions :
 
+# 20-01-26
+1. [543. Diameter of a tree](/neetcode75/_543.java)
+2  [404. Sum of Left Leaves](/neetcode75/_404.java)
+3. [236. Lowest Common Ancestor of a Binary Tree](/neetcode75/_236.java)
+4. [257. Binary Tree Paths](/neetcode75/_257.java)
+5. **Read again**[235. Lowest Common Ancestor of a Binary Search Tree](/neetcode75/_235.java)
 
 # 18-01-26
 1. [21. Merge Two Sorted Lists](/neetcode75/_21.java)
