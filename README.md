@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 20/01/26" & git push
+git add . & git commit -m "regular push 27/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -11,6 +11,22 @@ Sample entry
 ___________________________________________________________________________________________________________
 
 # Solved Questions :
+
+
+# 27-01-26
+1. [ 70. Climbing Stairs](/neetcode75/_70.java)
+2 **Read again hard dp** [403. Frog Jump](/neetcode75/_403.java)
+
+
+# 25-01-26
+1. [1557. Minimum Number of Vertices to Reach All Nodes](/neetcode75/_1557.java)
+2  [3818. Minimum Prefix Removal to Make Array Strictly Increasing](/neetcode75/_3818.java)
+
+# 21-01-26
+1. [2685. Count the Number of Complete Components](/neetcode75/_2685.java)
+2  [1791. Find Center of Star Graph](/neetcode75/_1791.java)
+3. [2797. All Paths From Source to Target](/neetcode75/_797.java)
+4. [1557. Minimum Number of Vertices to Reach All Nodes](/neetcode75/_1557.java)
 
 # 20-01-26
 1. [543. Diameter of a tree](/neetcode75/_543.java)
