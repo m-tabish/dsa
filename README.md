@@ -1,7 +1,7 @@
 | Commit cmd
 ```bash
 
-git add . & git commit -m "regular push 27/01/26" & git push
+git add . & git commit -m "regular push 30/01/26" & git push
 
 https://github.com/m-tabish/dsa
 ```
@@ -11,6 +11,10 @@ Sample entry
 ___________________________________________________________________________________________________________
 
 # Solved Questions :
+
+# 30-01-26
+1. [ 1137. N-th Tribonacci Number](/neetcode75/_1173.java)
+2  **Read again ** [5. Longest Palindromic Substring](/neetcode75/_5.java)
 
 
 # 27-01-26
